@@ -4,7 +4,7 @@
 <br>
 
 
-I am a Software Developer, I started learning PHP when I was 12 years and allways had a passion for PHP and Software Development.
+I am a University student doing Physics , I started learning PHP when I was 12 years and allways had a passion for PHP and Software Development.
 <br/>
 <br/>
 
