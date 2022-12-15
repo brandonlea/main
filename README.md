@@ -5,6 +5,7 @@
 
 
 I started learning PHP when I was 12 years and allways had a passion for PHP and Software Development.
+I've always wanted to help other make a name for them selfs by creating them a website.
 <br/>
 <br/>
 
