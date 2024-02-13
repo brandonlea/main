@@ -13,8 +13,9 @@ I've always wanted to help other make a name for them selfs by creating them a w
   
 ### 🧐 More About Me:
 
-- I love to stream.
 - I really enjoy programming.
+- I love watching football.
+- I love trying to new challenges.
 - I love what I do.
 <br>
 
