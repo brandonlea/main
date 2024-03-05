@@ -22,7 +22,6 @@ I've always wanted to help other make a name for them selfs by creating them a w
 ### 🔨 Languages and Tools:
 <a href="https://laravel.com"> <img width="42px" src="https://laravel.com/img/logomark.min.svg"/> </a>
 <a href="https://php.net"> <img width="42px" stle="color: white;" src="https://www.php.net//images/logos/new-php-logo.svg"/> </a>
-<a href="https://github.com"> <img width="42px" stle="color: white;" src="https://ibb.co/T8NrCXg"/> </a>
 <a href="https://javascript.com"> <img width="42px" stle="color: white;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"/> </a>
 
 <br>
